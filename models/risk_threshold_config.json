@@ -1,0 +1,8 @@
+{
+  "t_star_rf": 0.46,
+  "bucket_low_cut": 0.46,
+  "bucket_high_cut": 0.61,
+  "f1_at_t_star_rf": 0.39618138424821003,
+  "recall_at_t_star_rf": 0.608058608058608,
+  "precision_at_t_star_rf": 0.2938053097345133
+}
