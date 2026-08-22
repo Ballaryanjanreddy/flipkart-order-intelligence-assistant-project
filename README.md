@@ -111,13 +111,3 @@ git log --graph --all
 
 ---
 
-## Honesty Note on What's Actually Verified
-
-- **Part 1**: every task script was run end-to-end in a live environment,
-  every number in `PART1_REPORT.md` is a real, reproduced output.
-- **Part 2 & 3**: code was written carefully against the assignment brief
-  but has NOT been executed by me -- I did not have torch, langgraph, faiss,
-  or network access available. These need to be run locally, and any
-  errors that surface should be fixed and reported back before treating
-  them as complete. This note itself should be removed once both Parts are
-  actually verified end-to-end.
