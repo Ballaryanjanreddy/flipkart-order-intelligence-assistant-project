@@ -1,5 +1,0 @@
-payment_method,n_orders,n_actual_returns,recall,precision,f1
-COD,503,155,0.8774,0.317,0.4658
-Prepaid_Card,283,49,0.0,0.0,0.0
-Prepaid_UPI,294,48,0.0417,0.6667,0.0784
-Wallet,120,21,0.0476,0.5,0.087

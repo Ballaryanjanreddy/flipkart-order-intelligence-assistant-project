@@ -1,6 +1,0 @@
-product_category,n_orders,n_actual_returns,recall,precision,f1
-Apparel,385,100,0.53,0.3419,0.4157
-Beauty,116,31,0.6129,0.5,0.5507
-Electronics,261,52,0.3269,0.2787,0.3009
-Footwear,217,56,0.5,0.3333,0.4
-Home,221,34,0.6471,0.2245,0.3333

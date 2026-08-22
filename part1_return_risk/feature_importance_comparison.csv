@@ -1,0 +1,6 @@
+feature,impurity_rank,impurity_importance,permutation_rank,permutation_importance
+cat__payment_method_COD,1,0.1665,1,0.0669
+num__price_inr,2,0.1371,2,0.0103
+num__customer_tenure_days,3,0.1074,18,-0.0046
+num__delivery_distance_km,4,0.0972,15,-0.0024
+num__discount_pct,5,0.089,17,-0.0029
